@@ -188,5 +188,3 @@ def player_stats(player_name)
   end
   player_stats
 end
-
-            
