@@ -184,4 +184,3 @@ game_hash.values.each do |team_info|
     return player
   end
 end
-end
